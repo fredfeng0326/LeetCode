@@ -10,3 +10,4 @@ Leetcode算法  python作答
 - *657. Judge Route Circle* <https://www.jianshu.com/p/de6e2f6fefec>
 - *617. Merge Two Binary Trees* <https://www.jianshu.com/p/a8095c98ec64>
 - *728. Self Dividing Numbers* <https://www.jianshu.com/p/c3678d239e15>
+- *561. Array Partition I* <https://www.jianshu.com/p/8f58b2d8bc10>
