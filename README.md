@@ -17,3 +17,4 @@ Leetcode算法  python作答
 - *557. Reverse Words in a String III* <https://www.jianshu.com/p/2927e3619e2b>
 - *500. Keyboard Row* <https://www.jianshu.com/p/962d1f07b7f6>
 - *682. Baseball Game* <https://www.jianshu.com/p/99bf6deb6060>
+- *669. Trim a Binary Search Tree* <https://www.jianshu.com/p/8480a90efd04>
