@@ -18,3 +18,4 @@ Leetcode算法  python作答
 - *500. Keyboard Row* <https://www.jianshu.com/p/962d1f07b7f6>
 - *682. Baseball Game* <https://www.jianshu.com/p/99bf6deb6060>
 - *669. Trim a Binary Search Tree* <https://www.jianshu.com/p/8480a90efd04>
+- *766. Toeplitz Matrix* <https://www.jianshu.com/p/3e8fec2f90eb>
