@@ -20,3 +20,4 @@ Leetcode算法  python作答
 - *669. Trim a Binary Search Tree* <https://www.jianshu.com/p/8480a90efd04>
 - *766. Toeplitz Matrix* <https://www.jianshu.com/p/3e8fec2f90eb>
 - *566. Reshape the Matrix* <https://www.jianshu.com/p/d96620fcb5f2>
+- *575. Distribute Candies* <https://www.jianshu.com/p/811b2dd5fb04>
