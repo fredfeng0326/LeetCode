@@ -21,3 +21,4 @@ Leetcode算法  python作答
 - *766. Toeplitz Matrix* <https://www.jianshu.com/p/3e8fec2f90eb>
 - *566. Reshape the Matrix* <https://www.jianshu.com/p/d96620fcb5f2>
 - *575. Distribute Candies* <https://www.jianshu.com/p/811b2dd5fb04>
+- *496. Next Greater Element I* <https://www.jianshu.com/p/0c7b6a7b717b>
