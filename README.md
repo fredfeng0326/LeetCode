@@ -23,3 +23,4 @@ Leetcode算法  python作答
 - *575. Distribute Candies* <https://www.jianshu.com/p/811b2dd5fb04>
 - *496. Next Greater Element I* <https://www.jianshu.com/p/0c7b6a7b717b>
 - *693. Binary Number with Alternating Bits* <https://www.jianshu.com/p/d65e64e57a05>
+- *709. To Lower Case* <https://www.jianshu.com/p/1805ad6247f2>
