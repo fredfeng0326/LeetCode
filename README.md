@@ -25,3 +25,4 @@ Leetcode算法  python作答
 - *693. Binary Number with Alternating Bits* <https://www.jianshu.com/p/d65e64e57a05>
 - *709. To Lower Case* <https://www.jianshu.com/p/1805ad6247f2>
 - *867. Transpose Matrix* <https://www.jianshu.com/p/a8df3dcd44c0>
+- *868. Binary Gap* <https://www.jianshu.com/p/be9a982e1a8d>

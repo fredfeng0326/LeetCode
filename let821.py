@@ -12,7 +12,6 @@ class Solution:
         for index,item in enumerate(S):
             if C == item:
                 list_c.append(index)
-        print list_c
         list_return = []
         for index,item in enumerate(S):
             list_dif = []

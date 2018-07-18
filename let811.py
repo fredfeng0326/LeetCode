@@ -29,7 +29,7 @@ class Solution:
             count, domain = domain.split()
             count = int(count)
             frags = domain.split('.')
-            for i in xrange(len(frags)):
+            for i in range(len(frags)):
                 ans[".".join(frags[i:])] += count
         return ["{} {}".format(ct, dom) for dom, ct in ans.items()]
 
@@ -39,6 +39,5 @@ print(a.subdomainVisits(["900 google.mail.com", "50 yahoo.com", "1 intel.mail.co
 print(a.subdomainVisits2(["900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org"]))
 
 
-a = [('mail.com', 901), ('yahoo.com', 50), ('google.mail.com', 900), ('wiki.org', 5), ('org', 5), ('intel.mail.com', 1), ('com', 951)]
-print ["{} {}".format(ct, dom) for dom, ct in a]
+
 
