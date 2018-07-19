@@ -26,3 +26,5 @@ Leetcode算法  python作答
 - *709. To Lower Case* <https://www.jianshu.com/p/1805ad6247f2>
 - *867. Transpose Matrix* <https://www.jianshu.com/p/a8df3dcd44c0>
 - *868. Binary Gap* <https://www.jianshu.com/p/be9a982e1a8d>
+- *521. Longest Uncommon Subsequence I* <https://www.jianshu.com/p/64fb7816a18a>
+- *762. Prime Number of Set Bits in Binary Representation* <https://www.jianshu.com/p/06b97b5b69ae>
