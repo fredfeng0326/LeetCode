@@ -1,3 +1,5 @@
+# matrix transpose
+import numpy as np
 class Solution:
     def transpose(self, A):
         """
@@ -17,8 +19,12 @@ class Solution:
                 res[col][row] = A[row][col]
         return res
 
+    def transpose3(self,A):
+        return np.array(A).T.tolist()
+
 
 
 a = Solution()
 print (a.transpose([[1,2,3],[4,5,6],[7,8,9]]))
 print (a.transpose2([[1,2,3],[4,5,6],[7,8,9]]))
+print (a.transpose3([[1,2,3],[4,5,6],[7,8,9]]))
