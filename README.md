@@ -28,3 +28,4 @@ Leetcode算法  python作答
 - *868. Binary Gap* <https://www.jianshu.com/p/be9a982e1a8d>
 - *521. Longest Uncommon Subsequence I* <https://www.jianshu.com/p/64fb7816a18a>
 - *762. Prime Number of Set Bits in Binary Representation* <https://www.jianshu.com/p/06b97b5b69ae>
+- *485. Max Consecutive Ones* <https://www.jianshu.com/p/f396223482c5>
