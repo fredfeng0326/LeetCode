@@ -30,3 +30,4 @@ Leetcode算法  python作答
 - *762. Prime Number of Set Bits in Binary Representation* <https://www.jianshu.com/p/06b97b5b69ae>
 - *485. Max Consecutive Ones* <https://www.jianshu.com/p/f396223482c5>
 - *784. Letter Case Permutation* <https://www.jianshu.com/p/ea7697a5f010>
+- *812. Largest Triangle Area* <https://www.jianshu.com/p/fcd19d58126d>
