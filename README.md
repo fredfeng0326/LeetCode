@@ -32,3 +32,4 @@ Leetcode算法  python作答
 - *784. Letter Case Permutation* <https://www.jianshu.com/p/ea7697a5f010>
 - *812. Largest Triangle Area* <https://www.jianshu.com/p/fcd19d58126d>
 - *200. Number of Islands* <https://www.jianshu.com/p/4da701d8b5fa>
+- *695. Max Area of Island* <https://www.jianshu.com/p/59a7102f46a9>
