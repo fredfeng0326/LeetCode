@@ -35,3 +35,4 @@ Leetcode算法  python作答
 - *695. Max Area of Island* <https://www.jianshu.com/p/59a7102f46a9>
 - *520. Detect Capital* <https://www.jianshu.com/p/7f5330eea201>
 - *448. Find All Numbers Disappeared in an Array* <https://www.jianshu.com/p/b14e0b1dd846>
+- *696. Count Binary Substrings* <https://www.jianshu.com/p/f2835a1eada0>
