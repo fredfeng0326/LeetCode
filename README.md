@@ -36,3 +36,5 @@ Leetcode算法  python作答
 - *520. Detect Capital* <https://www.jianshu.com/p/7f5330eea201>
 - *448. Find All Numbers Disappeared in an Array* <https://www.jianshu.com/p/b14e0b1dd846>
 - *696. Count Binary Substrings* <https://www.jianshu.com/p/f2835a1eada0>
+- *788. Rotated Digits* <https://www.jianshu.com/p/322f43ca3738>
+- *860. Lemonade Change* <https://www.jianshu.com/p/8ace7a431843>
