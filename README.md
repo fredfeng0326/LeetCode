@@ -38,3 +38,4 @@ Leetcode算法  python作答
 - *696. Count Binary Substrings* <https://www.jianshu.com/p/f2835a1eada0>
 - *788. Rotated Digits* <https://www.jianshu.com/p/322f43ca3738>
 - *860. Lemonade Change* <https://www.jianshu.com/p/8ace7a431843>
+- *796. Rotate String* <https://www.jianshu.com/p/dc01a34af892>
