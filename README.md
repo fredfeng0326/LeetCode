@@ -39,3 +39,4 @@ Leetcode算法  python作答
 - *788. Rotated Digits* <https://www.jianshu.com/p/322f43ca3738>
 - *860. Lemonade Change* <https://www.jianshu.com/p/8ace7a431843>
 - *796. Rotate String* <https://www.jianshu.com/p/dc01a34af892>
+- *171. Excel Sheet Column Number* <https://www.jianshu.com/p/2ea8081ab4b5>
